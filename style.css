@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.nome {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lora', serif;
+    color: #3D550C ;
+}
+
+h2 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lora', serif;
+    color: #3D550C ;
+    margin-left: 30px;
+}
+
+h3 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lora', serif;
+    color: #3D550C ;
+    margin-left: 30px;
+}
+
+h4 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lora', serif;
+    color: #3D550C ;
+}
+
+h5 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lora', serif;
+    color: #3D550C ;
+}
+
+.palavras-estilo{
+    border: 1px solid black;
+    color: #81B622;
+    background-color: #EEEDE7; 
+}
+
+
+.dialogo{
+    display: flex;
+    align-items: center;
+}
+
+.img1{
+    width: 2vw;
+    height: 5vh;
+    margin: 6px;
+    margin-top: 4px;
+}
+.dialogo-chat{
+    border-radius: 30px;
+    background-color: #EEEDE7;
+    margin: 40px;
+    padding: 12px;
+    width: 50vw;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+
+.mensagens-lado{
+    display: flex;
+    justify-content: end;
+}
